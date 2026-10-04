@@ -1,0 +1,12 @@
+# local Python environment
+.venv/
+__pycache__/
+*.pyc
+
+# untouched source material (original photos still contain metadata, incl. GPS)
+originals/
+
+# live logs while working (archived copies live in logs/)
+out.txt
+
+.DS_Store
