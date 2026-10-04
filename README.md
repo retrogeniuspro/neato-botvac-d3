@@ -182,9 +182,9 @@ weak (self-discharging) cell in those pairs. **To be confirmed by a rest test** 
 
 ### Phase 2: 19 V laptop adapter through ~150 Ω (10 resistors in parallel)
 
-- ~59 → 49 mA, temperature 22 → ~25 °C, spread 79 → 56 mV. Log: [logs/precharge-19v-log.txt](logs/precharge-19v-log.txt).
+- ~59 → 49 mA, temperature 22 → ~25 °C, spread 79 → 56 mV. Log: [charge-logs/precharge-19v-log.txt](charge-logs/precharge-19v-log.txt).
 - **Not self-limiting**, so supervised: `tools/battery_watchdog.py` followed the log and raised spoken/sound alarms
-  ([logs/watchdog-log.txt](logs/watchdog-log.txt)).
+  ([charge-logs/watchdog-log.txt](charge-logs/watchdog-log.txt)).
 - **CUV cleared at t = 6423 s, the instant the lowest group crossed 3000 mV**:
 
 ```

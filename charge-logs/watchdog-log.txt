@@ -1,0 +1,153 @@
+Watching out.txt  (Ctrl+C to stop)
+11:50:22  status   pack 10679 mV   16 mA  groups [2652, 2639, 2716, 2672]  spread  77 mV  temp 22.1 C  FET 30.4 C  safety ?
+baseline: cell 22.1 C, FET 30.4 C
+11:51:22  status   pack 10688 mV   16 mA  groups [2655, 2641, 2718, 2674]  spread  77 mV  temp 22.2 C  FET 30.4 C  safety ?
+11:52:22  status   pack 10695 mV   16 mA  groups [2656, 2643, 2720, 2676]  spread  77 mV  temp 22.3 C  FET 30.4 C  safety ?
+11:53:24  status   pack 10703 mV   16 mA  groups [2658, 2645, 2722, 2678]  spread  77 mV  temp 22.5 C  FET 30.4 C  safety ?
+11:54:25  status   pack 10700 mV    0 mA  groups [2658, 2644, 2721, 2677]  spread  77 mV  temp 22.5 C  FET 30.4 C  safety ?
+11:55:25  status   pack 10696 mV    0 mA  groups [2657, 2643, 2720, 2676]  spread  77 mV  temp 22.7 C  FET 30.4 C  safety ?
+11:56:10  WARNING  Battery log has stopped updating.
+11:58:10  WARNING  Battery log has stopped updating.
+12:00:10  WARNING  Battery log has stopped updating.
+12:02:11  WARNING  Battery log has stopped updating.
+12:04:11  WARNING  Battery log has stopped updating.
+log restarted
+12:04:32  status   pack 10688 mV    0 mA  groups [2655, 2640, 2719, 2674]  spread  79 mV  temp 22.0 C  FET 30.4 C  safety CUV
+12:05:33  status   pack 10744 mV   59 mA  groups [2671, 2654, 2732, 2688]  spread  78 mV  temp 23.9 C  FET 30.4 C  safety CUV
+12:06:34  status   pack 10773 mV   58 mA  groups [2679, 2661, 2739, 2694]  spread  78 mV  temp 24.4 C  FET 30.4 C  safety CUV
+12:07:35  status   pack 10801 mV   58 mA  groups [2685, 2668, 2746, 2702]  spread  78 mV  temp 24.7 C  FET 30.4 C  safety CUV
+12:08:36  status   pack 10824 mV   58 mA  groups [2692, 2674, 2752, 2706]  spread  78 mV  temp 24.7 C  FET 30.4 C  safety CUV
+12:09:36  status   pack 10850 mV   57 mA  groups [2699, 2680, 2758, 2712]  spread  78 mV  temp 24.4 C  FET 30.4 C  safety CUV
+12:10:37  status   pack 10876 mV   58 mA  groups [2706, 2686, 2765, 2719]  spread  79 mV  temp 24.5 C  FET 30.4 C  safety CUV
+12:11:38  status   pack 10899 mV   58 mA  groups [2713, 2692, 2771, 2724]  spread  79 mV  temp 24.7 C  FET 30.4 C  safety CUV
+12:12:38  status   pack 10925 mV   57 mA  groups [2720, 2699, 2777, 2731]  spread  78 mV  temp 24.6 C  FET 30.4 C  safety CUV
+12:13:39  status   pack 10946 mV   57 mA  groups [2725, 2704, 2782, 2735]  spread  78 mV  temp 24.8 C  FET 30.4 C  safety CUV
+12:14:40  status   pack 10977 mV   56 mA  groups [2733, 2711, 2790, 2742]  spread  79 mV  temp 24.3 C  FET 30.4 C  safety CUV
+12:15:41  status   pack 10991 mV   56 mA  groups [2737, 2715, 2793, 2745]  spread  78 mV  temp 24.1 C  FET 30.4 C  safety CUV
+12:16:42  status   pack 11012 mV   57 mA  groups [2743, 2720, 2799, 2751]  spread  79 mV  temp 23.9 C  FET 30.4 C  safety CUV
+12:17:42  status   pack 11035 mV   56 mA  groups [2749, 2725, 2805, 2757]  spread  80 mV  temp 23.9 C  FET 30.4 C  safety CUV
+12:18:43  status   pack 11056 mV   56 mA  groups [2755, 2730, 2810, 2761]  spread  80 mV  temp 24.4 C  FET 30.4 C  safety CUV
+12:19:44  status   pack 11079 mV   56 mA  groups [2762, 2736, 2815, 2767]  spread  79 mV  temp 24.5 C  FET 30.4 C  safety CUV
+12:20:45  status   pack 11097 mV   56 mA  groups [2766, 2741, 2820, 2771]  spread  79 mV  temp 24.6 C  FET 30.4 C  safety CUV
+12:21:46  status   pack 11118 mV   56 mA  groups [2772, 2746, 2824, 2776]  spread  78 mV  temp 24.7 C  FET 30.4 C  safety CUV
+12:22:47  status   pack 11137 mV   56 mA  groups [2778, 2750, 2829, 2780]  spread  79 mV  temp 24.7 C  FET 30.4 C  safety CUV
+12:23:47  status   pack 11156 mV   55 mA  groups [2782, 2755, 2834, 2785]  spread  79 mV  temp 24.6 C  FET 30.4 C  safety CUV
+12:24:48  status   pack 11176 mV   55 mA  groups [2788, 2760, 2839, 2790]  spread  79 mV  temp 24.8 C  FET 30.4 C  safety CUV
+12:25:49  status   pack 11193 mV   56 mA  groups [2793, 2764, 2842, 2794]  spread  78 mV  temp 24.8 C  FET 30.4 C  safety CUV
+12:26:49  status   pack 11212 mV   55 mA  groups [2798, 2769, 2847, 2798]  spread  78 mV  temp 24.7 C  FET 30.4 C  safety CUV
+12:27:50  status   pack 11230 mV   55 mA  groups [2803, 2773, 2851, 2803]  spread  78 mV  temp 24.9 C  FET 30.4 C  safety CUV
+12:28:50  status   pack 11256 mV   55 mA  groups [2810, 2780, 2857, 2809]  spread  77 mV  temp 24.6 C  FET 30.4 C  safety CUV
+12:29:51  status   pack 11266 mV   55 mA  groups [2813, 2783, 2860, 2812]  spread  77 mV  temp 24.4 C  FET 30.4 C  safety CUV
+12:30:52  status   pack 11282 mV   54 mA  groups [2817, 2786, 2863, 2815]  spread  77 mV  temp 24.4 C  FET 30.4 C  safety CUV
+12:31:53  status   pack 11301 mV   55 mA  groups [2822, 2792, 2867, 2820]  spread  75 mV  temp 24.3 C  FET 30.4 C  safety CUV
+12:32:53  status   pack 11316 mV   54 mA  groups [2826, 2795, 2870, 2824]  spread  75 mV  temp 24.4 C  FET 30.4 C  safety CUV
+12:33:54  status   pack 11340 mV   55 mA  groups [2832, 2801, 2876, 2830]  spread  75 mV  temp 24.5 C  FET 30.4 C  safety CUV
+12:34:55  status   pack 11347 mV   55 mA  groups [2835, 2803, 2878, 2831]  spread  75 mV  temp 24.5 C  FET 30.4 C  safety CUV
+12:35:56  status   pack 11370 mV   54 mA  groups [2841, 2809, 2883, 2838]  spread  74 mV  temp 24.7 C  FET 30.4 C  safety CUV
+12:36:56  status   pack 11377 mV   54 mA  groups [2843, 2811, 2884, 2838]  spread  73 mV  temp 24.5 C  FET 30.4 C  safety CUV
+12:37:57  status   pack 11393 mV   54 mA  groups [2847, 2815, 2888, 2843]  spread  73 mV  temp 24.5 C  FET 30.4 C  safety CUV
+12:38:57  status   pack 11415 mV   54 mA  groups [2853, 2821, 2893, 2848]  spread  72 mV  temp 24.4 C  FET 30.4 C  safety CUV
+12:39:58  status   pack 11422 mV   54 mA  groups [2855, 2823, 2894, 2849]  spread  71 mV  temp 24.5 C  FET 30.4 C  safety CUV
+12:40:59  status   pack 11437 mV   53 mA  groups [2859, 2826, 2898, 2853]  spread  72 mV  temp 24.4 C  FET 30.4 C  safety CUV
+12:41:59  status   pack 11450 mV   54 mA  groups [2862, 2830, 2901, 2856]  spread  71 mV  temp 24.6 C  FET 30.4 C  safety CUV
+12:43:00  status   pack 11463 mV   54 mA  groups [2866, 2834, 2904, 2860]  spread  70 mV  temp 24.6 C  FET 30.4 C  safety CUV
+12:44:01  status   pack 11476 mV   54 mA  groups [2869, 2837, 2907, 2863]  spread  70 mV  temp 24.5 C  FET 30.4 C  safety CUV
+12:45:02  status   pack 11490 mV   53 mA  groups [2873, 2841, 2910, 2866]  spread  69 mV  temp 24.7 C  FET 30.4 C  safety CUV
+12:46:02  status   pack 11503 mV   53 mA  groups [2876, 2845, 2914, 2869]  spread  69 mV  temp 24.7 C  FET 30.4 C  safety CUV
+12:47:04  status   pack 11516 mV   53 mA  groups [2880, 2847, 2917, 2872]  spread  70 mV  temp 24.6 C  FET 30.4 C  safety CUV
+12:48:04  status   pack 11529 mV   53 mA  groups [2883, 2851, 2920, 2875]  spread  69 mV  temp 24.8 C  FET 30.4 C  safety CUV
+12:49:05  status   pack 11541 mV   53 mA  groups [2887, 2854, 2922, 2878]  spread  68 mV  temp 24.7 C  FET 30.4 C  safety CUV
+12:50:06  status   pack 11553 mV   53 mA  groups [2890, 2857, 2925, 2881]  spread  68 mV  temp 24.7 C  FET 30.4 C  safety CUV
+12:51:07  status   pack 11567 mV   53 mA  groups [2893, 2861, 2929, 2884]  spread  68 mV  temp 24.8 C  FET 30.4 C  safety CUV
+12:52:07  status   pack 11577 mV   54 mA  groups [2896, 2863, 2931, 2886]  spread  68 mV  temp 24.6 C  FET 30.4 C  safety CUV
+12:53:08  status   pack 11596 mV   52 mA  groups [2899, 2867, 2934, 2890]  spread  67 mV  temp 24.9 C  FET 30.4 C  safety CUV
+12:54:08  status   pack 11600 mV   53 mA  groups [2902, 2869, 2937, 2892]  spread  68 mV  temp 25.1 C  FET 30.4 C  safety CUV
+12:55:09  status   pack 11611 mV   53 mA  groups [2905, 2872, 2939, 2895]  spread  67 mV  temp 25.0 C  FET 30.4 C  safety CUV
+12:56:09  status   pack 11623 mV   53 mA  groups [2907, 2876, 2943, 2898]  spread  67 mV  temp 24.5 C  FET 30.4 C  safety CUV
+12:57:10  status   pack 11633 mV   52 mA  groups [2910, 2878, 2945, 2900]  spread  67 mV  temp 24.8 C  FET 30.4 C  safety CUV
+12:58:11  status   pack 11647 mV   53 mA  groups [2913, 2882, 2948, 2904]  spread  66 mV  temp 25.6 C  FET 30.4 C  safety CUV
+12:59:12  status   pack 11655 mV   52 mA  groups [2915, 2884, 2950, 2905]  spread  66 mV  temp 25.5 C  FET 30.4 C  safety CUV
+13:00:13  status   pack 11674 mV   51 mA  groups [2919, 2890, 2954, 2910]  spread  64 mV  temp 25.6 C  FET 30.4 C  safety CUV
+13:01:14  status   pack 11676 mV   52 mA  groups [2921, 2890, 2955, 2911]  spread  65 mV  temp 24.5 C  FET 30.4 C  safety CUV
+13:02:14  status   pack 11687 mV   52 mA  groups [2922, 2893, 2958, 2913]  spread  65 mV  temp 24.3 C  FET 30.4 C  safety CUV
+13:03:15  status   pack 11696 mV   52 mA  groups [2924, 2895, 2960, 2916]  spread  65 mV  temp 24.9 C  FET 30.4 C  safety CUV
+13:04:16  status   pack 11707 mV   52 mA  groups [2928, 2898, 2963, 2918]  spread  65 mV  temp 25.1 C  FET 30.4 C  safety CUV
+13:05:17  status   pack 11719 mV   51 mA  groups [2930, 2902, 2965, 2921]  spread  63 mV  temp 24.5 C  FET 30.4 C  safety CUV
+13:06:18  status   pack 11726 mV   52 mA  groups [2932, 2904, 2968, 2922]  spread  64 mV  temp 24.3 C  FET 30.4 C  safety CUV
+13:07:18  status   pack 11737 mV   51 mA  groups [2934, 2907, 2970, 2926]  spread  63 mV  temp 25.1 C  FET 30.4 C  safety CUV
+13:08:19  status   pack 11746 mV   51 mA  groups [2937, 2909, 2973, 2928]  spread  64 mV  temp 25.6 C  FET 30.4 C  safety CUV
+13:09:20  status   pack 11764 mV   52 mA  groups [2941, 2913, 2977, 2932]  spread  64 mV  temp 24.6 C  FET 30.4 C  safety CUV
+13:10:21  status   pack 11765 mV   51 mA  groups [2942, 2914, 2977, 2932]  spread  63 mV  temp 24.3 C  FET 30.4 C  safety CUV
+13:11:21  status   pack 11779 mV   51 mA  groups [2945, 2919, 2980, 2935]  spread  61 mV  temp 24.3 C  FET 30.4 C  safety CUV
+13:12:22  status   pack 11784 mV   51 mA  groups [2946, 2919, 2982, 2937]  spread  63 mV  temp 25.0 C  FET 30.4 C  safety CUV
+13:13:23  status   pack 11793 mV   51 mA  groups [2948, 2922, 2984, 2939]  spread  62 mV  temp 25.4 C  FET 30.4 C  safety CUV
+13:14:24  status   pack 11803 mV   51 mA  groups [2950, 2924, 2987, 2941]  spread  63 mV  temp 25.5 C  FET 30.4 C  safety CUV
+13:15:25  status   pack 11812 mV   51 mA  groups [2952, 2927, 2989, 2944]  spread  62 mV  temp 24.6 C  FET 30.4 C  safety CUV
+13:16:25  status   pack 11828 mV   51 mA  groups [2956, 2931, 2992, 2946]  spread  61 mV  temp 25.7 C  FET 30.4 C  safety CUV
+13:17:27  status   pack 11830 mV   51 mA  groups [2957, 2932, 2993, 2948]  spread  61 mV  temp 25.8 C  FET 30.4 C  safety CUV
+13:18:27  status   pack 11846 mV   50 mA  groups [2961, 2936, 2997, 2952]  spread  61 mV  temp 25.5 C  FET 30.4 C  safety CUV
+13:19:28  status   pack 11847 mV   51 mA  groups [2961, 2936, 2997, 2952]  spread  61 mV  temp 24.9 C  FET 30.4 C  safety CUV
+13:20:29  status   pack 11856 mV   51 mA  groups [2963, 2939, 2999, 2954]  spread  60 mV  temp 24.6 C  FET 30.4 C  safety CUV
+13:21:29  status   pack 11867 mV   51 mA  groups [2965, 2942, 3002, 2958]  spread  60 mV  temp 25.4 C  FET 30.4 C  safety CUV
+13:22:30  status   pack 11873 mV   51 mA  groups [2968, 2943, 3004, 2958]  spread  61 mV  temp 25.2 C  FET 30.4 C  safety CUV
+13:23:31  status   pack 11882 mV   50 mA  groups [2969, 2946, 3006, 2960]  spread  60 mV  temp 24.3 C  FET 30.4 C  safety CUV
+13:24:32  status   pack 11890 mV   50 mA  groups [2972, 2948, 3008, 2962]  spread  60 mV  temp 24.4 C  FET 30.4 C  safety CUV
+13:25:33  status   pack 11907 mV   50 mA  groups [2975, 2952, 3012, 2967]  spread  60 mV  temp 24.0 C  FET 30.4 C  safety CUV
+13:26:33  status   pack 11908 mV   50 mA  groups [2976, 2952, 3012, 2967]  spread  60 mV  temp 24.9 C  FET 30.4 C  safety CUV
+13:27:34  status   pack 11916 mV   50 mA  groups [2978, 2955, 3014, 2969]  spread  59 mV  temp 25.0 C  FET 30.4 C  safety CUV
+13:28:35  status   pack 11925 mV   50 mA  groups [2979, 2958, 3017, 2972]  spread  59 mV  temp 24.1 C  FET 30.4 C  safety CUV
+13:29:36  status   pack 11932 mV   50 mA  groups [2981, 2959, 3018, 2973]  spread  59 mV  temp 23.8 C  FET 30.4 C  safety CUV
+13:30:37  status   pack 11949 mV   50 mA  groups [2985, 2964, 3021, 2977]  spread  57 mV  temp 24.2 C  FET 30.4 C  safety CUV
+13:31:37  status   pack 11949 mV   50 mA  groups [2986, 2963, 3022, 2978]  spread  59 mV  temp 24.3 C  FET 30.4 C  safety CUV
+13:32:38  status   pack 11966 mV   50 mA  groups [2989, 2967, 3027, 2983]  spread  60 mV  temp 23.8 C  FET 30.4 C  safety CUV
+13:33:39  status   pack 11965 mV   50 mA  groups [2988, 2968, 3026, 2982]  spread  58 mV  temp 23.8 C  FET 30.4 C  safety CUV
+13:34:40  status   pack 11975 mV   50 mA  groups [2992, 2970, 3028, 2985]  spread  58 mV  temp 24.0 C  FET 30.4 C  safety CUV
+13:35:41  status   pack 11985 mV   50 mA  groups [2993, 2973, 3031, 2988]  spread  58 mV  temp 24.2 C  FET 30.4 C  safety CUV
+13:36:42  status   pack 11990 mV   50 mA  groups [2995, 2974, 3032, 2989]  spread  58 mV  temp 24.3 C  FET 30.4 C  safety CUV
+13:37:42  status   pack 12004 mV   46 mA  groups [2997, 2977, 3036, 2994]  spread  59 mV  temp 24.4 C  FET 30.4 C  safety CUV
+13:38:43  status   pack 12003 mV   46 mA  groups [2997, 2977, 3036, 2993]  spread  59 mV  temp 24.1 C  FET 30.4 C  safety CUV
+13:39:44  status   pack 12011 mV   46 mA  groups [3000, 2980, 3037, 2995]  spread  57 mV  temp 24.5 C  FET 30.4 C  safety CUV
+13:40:45  status   pack 12017 mV   45 mA  groups [3001, 2980, 3038, 2996]  spread  58 mV  temp 24.6 C  FET 30.4 C  safety CUV
+13:41:45  status   pack 12022 mV   46 mA  groups [3002, 2982, 3040, 2998]  spread  58 mV  temp 24.4 C  FET 30.4 C  safety CUV
+13:42:46  status   pack 12033 mV   46 mA  groups [3005, 2985, 3042, 3001]  spread  57 mV  temp 24.2 C  FET 30.4 C  safety CUV
+13:43:47  status   pack 12037 mV   46 mA  groups [3006, 2986, 3043, 3002]  spread  57 mV  temp 24.0 C  FET 30.4 C  safety CUV
+13:44:48  status   pack 12053 mV   46 mA  groups [3009, 2990, 3047, 3007]  spread  57 mV  temp 24.4 C  FET 30.4 C  safety CUV
+13:45:49  status   pack 12051 mV   46 mA  groups [3009, 2989, 3047, 3006]  spread  58 mV  temp 24.5 C  FET 30.4 C  safety CUV
+13:46:49  status   pack 12065 mV   45 mA  groups [3011, 2993, 3050, 3011]  spread  57 mV  temp 24.5 C  FET 30.4 C  safety CUV
+13:47:50  status   pack 12066 mV   45 mA  groups [3012, 2993, 3050, 3010]  spread  57 mV  temp 23.9 C  FET 30.4 C  safety CUV
+13:48:51  status   pack 12071 mV   45 mA  groups [3013, 2995, 3051, 3012]  spread  56 mV  temp 23.9 C  FET 30.4 C  safety CUV
+13:49:52  status   pack 12079 mV   45 mA  groups [3015, 2996, 3053, 3014]  spread  57 mV  temp 24.1 C  FET 30.4 C  safety CUV
+13:50:32  INFO     All cell groups above 3 volts. Protection should clear.
+13:50:52  status   pack 12084 mV   46 mA  groups [3017, 2997, 3054, 3015]  spread  57 mV  temp 24.5 C  FET 30.4 C  safety CUV
+13:51:35  CRITICAL Protection cleared. Disconnect the power supply now.
+13:51:50  CRITICAL Protection cleared. Disconnect the power supply now.
+13:51:53  status   pack 12101 mV   49 mA  groups [3021, 3002, 3059, 3020]  spread  57 mV  temp 24.3 C  FET 30.4 C  safety none
+13:52:05  CRITICAL Protection cleared. Disconnect the power supply now.
+13:52:21  CRITICAL Protection cleared. Disconnect the power supply now.
+13:52:36  CRITICAL Protection cleared. Disconnect the power supply now.
+13:52:51  CRITICAL Protection cleared. Disconnect the power supply now.
+13:52:54  status   pack 12100 mV   49 mA  groups [3020, 3002, 3058, 3019]  spread  56 mV  temp 24.2 C  FET 30.4 C  safety none
+13:53:07  CRITICAL Protection cleared. Disconnect the power supply now.
+13:53:23  CRITICAL Protection cleared. Disconnect the power supply now.
+13:53:39  CRITICAL Protection cleared. Disconnect the power supply now.
+13:53:55  CRITICAL Protection cleared. Disconnect the power supply now.
+13:53:55  status   pack 12109 mV   49 mA  groups [3022, 3004, 3060, 3024]  spread  56 mV  temp 24.2 C  FET 30.4 C  safety none
+13:54:11  CRITICAL Protection cleared. Disconnect the power supply now.
+13:54:27  CRITICAL Protection cleared. Disconnect the power supply now.
+13:54:42  CRITICAL Protection cleared. Disconnect the power supply now.
+13:54:56  status   pack 12116 mV   49 mA  groups [3024, 3006, 3062, 3024]  spread  56 mV  temp 24.6 C  FET 30.4 C  safety none
+13:54:57  CRITICAL Protection cleared. Disconnect the power supply now.
+13:55:13  CRITICAL Protection cleared. Disconnect the power supply now.
+13:55:29  CRITICAL Protection cleared. Disconnect the power supply now.
+13:55:45  CRITICAL Protection cleared. Disconnect the power supply now.
+13:55:56  status   pack 12121 mV   50 mA  groups [3025, 3007, 3064, 3025]  spread  57 mV  temp 24.5 C  FET 30.4 C  safety none
+13:56:01  CRITICAL Protection cleared. Disconnect the power supply now.
+13:56:17  CRITICAL Protection cleared. Disconnect the power supply now.
+13:56:32  CRITICAL Protection cleared. Disconnect the power supply now.
+13:56:47  CRITICAL Protection cleared. Disconnect the power supply now.
+13:56:47  INFO     Charge current has tapered off at 12.1 volts.
+13:56:57  status   pack 12107 mV    0 mA  groups [3021, 3004, 3060, 3021]  spread  56 mV  temp 24.1 C  FET 30.4 C  safety none
+13:57:39  WARNING  Battery chip is not answering. Charger may be disconnected.
+13:59:39  WARNING  Battery chip is not answering. Charger may be disconnected.
+
+[exited with code 144]
