@@ -260,7 +260,7 @@ tools/                     scripts that run on the computer
   check_battery.sh         runs the Pico scripts via mpremote (ping | read | monitor | lifetime)
   battery_watchdog.py      follows a ping log and sounds alarms (macOS)
   neato.py                 Neato robot USB console: commands and a --watch charging table
-logs/                      raw logs from this repair
+charge-logs/               raw logs from this repair
 ```
 
 ## Quick start
